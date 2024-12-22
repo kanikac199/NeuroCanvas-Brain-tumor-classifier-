@@ -11,7 +11,7 @@ NeuroCanvas is a deep learning project focused on brain tumor classification usi
 - **Model Comparison**: Evaluates performance of DenseNet, MobileNet, and VGG19.
 - **User-Friendly Interface**: Simplifies complex neural network analysis.
 
-![diag](images/final%20diag.jpg)
+![diag](images/result.jpg)
 
 ## Dataset
 The project utilizes publicly available medical imaging datasets for training and testing.
