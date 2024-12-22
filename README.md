@@ -1,7 +1,7 @@
 # NeuroCanvas
 
 NeuroCanvas is a deep learning project focused on brain tumor classification using Convolutional Neural Networks (CNNs). It leverages state-of-the-art architectures like DenseNet, MobileNet, and VGG19 to provide accurate tumor detection for medical applications.
-
+![Website Front](images/website front.jpg)
 ## Features
 - **Brain Tumor Classification**: Uses advanced CNN architectures.
 - **Deep Learning Frameworks**: Built with TensorFlow and Keras.
